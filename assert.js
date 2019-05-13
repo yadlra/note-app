@@ -1,9 +1,9 @@
-function Note(text){
-  var note = new Note();
-  assert.isTrue(note.text(string) === string);
-};
-
-Note();
+// function Note(text){
+//   var note = new Note();
+//   assert.isTrue(note.text(string) === string);
+// };
+//
+// Note();
 
 
 
